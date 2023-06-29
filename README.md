@@ -39,14 +39,14 @@ I am a current M.S. CS student 💻 @ Northeastern University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="80" height="80"/>&nbsp;
-  <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" title="Wolfram" alt="Wolfram" width="80" height="80"/>&nbsp;
-  <img src="https://developers.google.com/static/blockly/images/logos/logo_vertical.svg" title="Blockly" alt="Blockly" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="Cmake" alt="Cmake" width="80" height="80"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" title="Tableau" alt="Tableau" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
+    <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" title="Wolfram" alt="Wolfram" width="80" height="80"/>&nbsp;
+  <img src="https://developers.google.com/static/blockly/images/logos/logo_vertical.svg" title="Blockly" alt="Blockly" width="80" height="80"/>&nbsp;
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" title="Pygame" **alt="Pygame" width="80" height="80"/>&nbsp;
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" **alt="JUnit" width="80" height="80"/>&nbsp;
-  <img src="https://www.gtk.org/assets/img/logo-gtk-sm.png" title="GTK" **alt="GTK" width="80" height="80"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" title="GTK" **alt="GTK" width="80" height="80"/>&nbsp;
   
 </div>
 
