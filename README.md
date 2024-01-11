@@ -41,11 +41,17 @@ I am a current M.S. CS student 💻 @ Northeastern University.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="80" height="80" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="Cmake" alt="Cmake" width="80" height="80"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" title="Tableau" alt="Tableau" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>&nbsp;
-    <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" title="Wolfram" alt="Wolfram" width="80" height="80"/>&nbsp;
+  <img src="https://www.wolfram.com/common/framework/img/spikey.en.png" title="Wolfram" alt="Wolfram" width="80" height="80"/>&nbsp;
   <img src="https://developers.google.com/static/blockly/images/logos/logo_vertical.svg" title="Blockly" alt="Blockly" width="80" height="80"/>&nbsp;
   <img src="https://www.pygame.org/ftp/pygame-head-party.png" title="Pygame" **alt="Pygame" width="80" height="80"/>&nbsp;
   <img src="https://junit.org/junit4/images/junit-logo.png" title="JUnit" **alt="JUnit" width="80" height="80"/>&nbsp;
