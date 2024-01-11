@@ -22,11 +22,11 @@
 ### :man_technologist: About Me:
 
 I am a current M.S. CS student 💻 @ Northeastern University.
-- :school: I hold a B.S. in Chemical Engineering & Materials Science and Engineering from UC Berkeley.
+- :school: I hold a B.S. in Chemical Engineering from UC Berkeley.
 
-- :seedling: Prior to diving into computer science, I was an R&D Engineer at Enovix Corporation, a Lithium-ion battery making company based in Fremont, CA, where I learned Python and Google Blockly.
+- :seedling: Before diving into computer science, I was an R&D Engineer at Enovix Corporation, a Lithium-ion battery making company based in Fremont, CA, where I learned Python APIs and found my interest in coding.
 
-- :zap: In my free time, I play basketball 🏀 and go to the gym. I also like reading tech articles.
+- :zap: In my free time, I enjoy the beauty of nature and love to take my dogs hiking and swimming.
 
 - :mailbox: How to reach me: fang.junj@northeastern.edu, or [![Linkedin Badge](https://img.shields.io/badge/-Junjie_Fang-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/junjie-fang/)
 
