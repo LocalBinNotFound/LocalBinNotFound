@@ -38,16 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="Express" />
 </p>
 
-_(Ask me about: Python APIs, fullstack apps, algorithm puzzles, or eco-friendly tech!)_
-
----
-
-### 📈 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LocalBinNotFound&show_icons=true&theme=github_dark" alt="Junjie's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LocalBinNotFound&theme=dark" alt="streak stats"/>
-</p>
+_(Ask me about: Python, fullstack apps, algorithms, or dogs!)_
 
 ---
 
@@ -61,5 +52,5 @@ _(Ask me about: Python APIs, fullstack apps, algorithm puzzles, or eco-friendly 
 
 <details>
   <summary>🐶 Fun Fact</summary>
-  When not coding, you'll find me hiking with my two dogs or exploring the best local swimming spots!
+  When not coding, you'll find me hiking with my two dogs or exploring the best mountains to ski!
 </details>
